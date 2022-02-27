@@ -1,0 +1,1 @@
+# SemEval-2022_Multimedia_Automatic_Misogyny_Identification
